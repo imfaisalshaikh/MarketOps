@@ -78,6 +78,7 @@ chats/
   chatId/
     messages[]
 
+'''
 ## 📈 **Roadmap**
 - Add secure payment integration  
 - Add delivery/pickup scheduling  
