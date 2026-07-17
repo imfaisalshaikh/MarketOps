@@ -77,19 +77,3 @@ messages/
 chats/
   chatId/
     messages[]
-
-'''
-## 📈 **Roadmap**
-- Add secure payment integration  
-- Add delivery/pickup scheduling  
-- Add advanced seller analytics  
-- Add AI‑powered price suggestions  
-- Add multi‑language support  
-
-## 📜 **License**
-This project is licensed under MIT.  
-Feel free to fork, contribute, or open issues.
-
-## 🤝 **Contributions**
-Pull requests are welcome.  
-For major changes, please open an issue first to discuss what you’d like to modify.
