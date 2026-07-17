@@ -47,7 +47,22 @@ Responsibilities:
 - Integrated Firebase for authentication, database, and storage  
 - Implemented marketplace logic, listing flows, and chat system  
 - Ensured responsive design across mobile and web  
-- Structured scalable Firestore collections for future growth  
+- Structured scalable Firestore collections for future growth
+
+## 📈 **Roadmap**
+- Add secure payment integration  
+- Add delivery/pickup scheduling  
+- Add advanced seller analytics  
+- Add AI‑powered price suggestions  
+- Add multi‑language support  
+
+## 📜 **License**
+This project is licensed under MIT.  
+Feel free to fork, contribute, or open issues.
+
+## 🤝 **Contributions**
+Pull requests are welcome.  
+For major changes, please open an issue first to discuss what you’d like to modify.
 
 ## 📂 **Firestore Structure (MVP)**
 ```
